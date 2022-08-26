@@ -28,7 +28,7 @@ const Hero = () => {
                         <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0 pt-3">Hallo semuaya Perkenalakan saya zaid al maghfur dan sekarang saya sedang menjalani pendidikan di Politeknik IDN di jurusan Programmer .</p>
                         <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start pt-5">
                             <div className="rounded-md  pl-20">
-                                <a href="../public/Pdf/zaid_al_maghfur-Cv.pdf" className="w-96 flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-teal-500 hover:bg-black md:py-4 md:text-lg md:px-10"> Download CV </a>
+                                <a href="/Pdf/zaid_al_maghfur-Cv.pdf" className="w-96 flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-teal-500 hover:bg-black md:py-4 md:text-lg md:px-10"> Download CV </a>
                             </div>
                             <div className="mt-3 sm:mt-0 sm:ml-3 pb-7 pl-32 pt-3">
                                 <a href="https://github.com/ZAIDALMAGHFUR" className="w-72 flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-black bg-teal-200 hover:bg-white md:py-4 md:text-lg md:px-10"> Ke Github </a>
